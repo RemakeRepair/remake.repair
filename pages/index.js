@@ -187,8 +187,8 @@ const Home = () => (
           <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <img src="/static/assets/images/fernando.jpg" height="180" alt="Fernando Garcia Albero" className="rounded-circle"/>
-                <div className="small text-black-50 mt-3">Fernando Garcia Alero</div>
+                <img src="/static/assets/images/fernando.jpg" height="180" alt="Fernando García Albero" className="rounded-circle"/>
+                <div className="small text-black-50 mt-3">Fernando García Albero</div>
               </div>
             </div>
           </div>
