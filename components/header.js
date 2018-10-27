@@ -11,8 +11,15 @@ const Header = () => (
           Work Again.
         </h1>
         <div className="ruler"></div>
-        <button type="button" className="btn btn-outline-light btn-lg" style={{borderRadius: '8pt', borderWidth: '2px', fontFamily:`'Cereal', sans-serif`}}>Join a party</button>
+        <a target="_blank" href="https://goo.gl/forms/sgYwROmjZnoiSOck2" className="btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
       </div>
+      <style jsx>{`
+        .bold-outline-btn {
+          border-radius: 8pt;
+          border-width: 2px;
+          font-family: 'Cereal', sans-serif;
+        }
+        `}</style>
     </div>
   </header>
 )

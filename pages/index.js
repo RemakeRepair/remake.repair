@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Head from '../components/head'
 import Nav from '../components/nav'
 import Header from '../components/header'
+import Team from '../components/team'
 
 const Home = () => (
   <div id="page-top">
@@ -179,53 +180,7 @@ const Home = () => (
       </div>
     </section>
 
-    <section className="contact-section bg-black">
-      <div className="container">
-        <h2 className="text-white text-center mb-3" id="team">Our team</h2>
-        <div className="row">
-
-          <div className="col-md-4 mb-3 mb-md-0">
-            <div className="card py-4 h-100">
-              <div className="card-body text-center">
-                <img src="/static/assets/images/fernando.jpg" height="180" alt="Fernando García Albero" className="rounded-circle"/>
-                <div className="small text-black-50 mt-3">Fernando García Albero</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-4 mb-3 mb-md-0">
-            <div className="card py-4 h-100">
-              <div className="card-body text-center">
-                <img src="/static/assets/images/mashiat.jpg" height="180" alt="Mashiat Lamisa" className="rounded-circle"/>
-                <div className="small text-black-50 mt-3">Mashiat Lamisa</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-4 mb-3 mb-md-0">
-            <div className="card py-4 h-100">
-              <div className="card-body text-center">
-                <img src="/static/assets/images/okl.jpeg" height="180" alt="Or Ka Lai" className="rounded-circle"/>
-                <div className="small text-black-50 mt-3">Or Ka Lai</div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="social d-flex justify-content-center">
-          <a href="https://spectrum.chat/remake" className="mx-2">
-            <i className="fas fa-comments"></i>
-          </a>
-          <a href="https://m.me/remakerepair" className="mx-2">
-            <i className="fab fa-facebook-messenger"></i>
-          </a>
-          <a href="https://therestartproject.org/groups/remake-repair-parties/" className="mx-2">
-            <i className="fas fa-wrench"></i>
-          </a>
-        </div>
-
-      </div>
-    </section>
+    <Team/>
 
     <footer className="bg-black small text-center text-white-50">
       <div className="container">
