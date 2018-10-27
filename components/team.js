@@ -5,7 +5,7 @@ const team = [
     name: 'Fernando García Albero',
     bio: [
       'Been fixing things since a teenager, yet I still can’t manage to fix my own relationships (_call me ;)_).',
-      'With a strong alternative-oriented music taste and a full-time pun maker job, I <strong>refuse</strong> to drown in the mainstream.',
+      'With a strong alternative-oriented music taste and a full-time pun maker job, I refuse to drown in the mainstream.',
       'All in all, a gwei lou majoring in GCS a.k.a. Goodest Cantonese Swearing'
     ],
     avatar: '/static/assets/images/fernando.jpg' },

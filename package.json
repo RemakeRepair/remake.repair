@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "echo Skipping test for static website"
   },
   "dependencies": {
     "next": "^7.0.2",
