@@ -11,7 +11,7 @@ const Header = () => (
           Work Again.
         </h1>
         <div className="ruler"></div>
-        <a target="_blank" href="https://goo.gl/forms/sgYwROmjZnoiSOck2" className="btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
+        <a target="_blank" href="https://ust.az1.qualtrics.com/jfe/form/SV_0xgHhHF9G4EHH5H" className="btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
       </div>
       <style jsx>{`
         .bold-outline-btn {

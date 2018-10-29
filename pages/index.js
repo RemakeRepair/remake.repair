@@ -1,14 +1,11 @@
 import React from 'react'
 import Link from 'next/link'
-import Head from '../components/head'
-import Nav from '../components/nav'
+import Layout from '../components/layout'
 import Header from '../components/header'
 import Team from '../components/team'
 
 const Home = () => (
-  <div id="page-top">
-    <Head title="REMAKE" />
-    <Nav />
+  <Layout>
     <Header/>
     <section id="about" className="about-section text-center">
       <div className="container">
@@ -62,7 +59,6 @@ const Home = () => (
       </div>
       <div className="parallax"></div>
     </section>
-
     <section id="projects" className="projects-section bg-light">
       <div className="container">
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
@@ -165,29 +161,19 @@ const Home = () => (
         
       </div>
     </section>
-
     <section id="signup" className="signup-section">
       <div className="container">
         <div className="row">
           <div className="col-md-10 col-lg-8 mx-auto text-center">
-
             <i className="fas fa-hands-helping fa-3x mb-2 text-white"></i>
             <h2 className="text-white mb-5 levitated-text">Have a dead iPhone lying inside your bedside table?</h2>
             <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2>
-
           </div>
         </div>
       </div>
     </section>
-
     <Team/>
-
-    <footer className="bg-black small text-center text-white-50">
-      <div className="container">
-        <i className="fas fa-home"></i> Based in Hong Kong; Homegrown in <i className="fas fa-university"></i> HKUST
-      </div>
-    </footer>
-  </div>
+  </Layout>
 )
 
 export default Home
