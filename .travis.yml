@@ -11,3 +11,5 @@ deploy:
     skip_cleanup: true
     on:
       master: true
+notifications:
+  slack: remakeparty:$SLACK_TOKEN
