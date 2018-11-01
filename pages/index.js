@@ -158,7 +158,7 @@ const Home = () => (
             </div>
           </div>
         </div>
-        
+
       </div>
     </section>
     <section id="signup" className="signup-section">
@@ -168,6 +168,22 @@ const Home = () => (
             <i className="fas fa-hands-helping fa-3x mb-2 text-white"></i>
             <h2 className="text-white mb-5 levitated-text">Have a dead iPhone lying inside your bedside table?</h2>
             <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2>
+            <div className="row mt-3">
+              <div className="col-sm-12 col-md-4 d-flex justify-content-center align-items-center">
+                <div className="d-flex justify-content-center align-items-center" style={{background: 'white', width: '128px', height: '128px', borderRadius: '64px'}}>
+                  <img src="/static/assets/images/repair_cost.jpg" width="88"/>
+                </div>
+              </div>
+              <div className="col-sm-12 col-md-8">
+                <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
+                  For repairing cost, we believe that a fair compensation for labor cost could bring happiness to both parties.
+                  Hence the following pricing:<br/>
+                  💵 Screen and battery replacements: up to $500 HKD <br/>
+                  💵 Any other repair, 10% of the replacement part <br/>
+                  💡 Limited budget per session; first come, first served.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
