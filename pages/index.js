@@ -176,11 +176,11 @@ const Home = () => (
               </div>
               <div className="col-sm-12 col-md-8">
                 <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
-                  For repairing cost, we believe that a fair compensation for labor cost could bring happiness to both parties.
-                  Hence the following pricing:<br/>
-                  💵 Screen and battery replacements: up to $500 HKD <br/>
-                  💵 Any other repair, 10% of the replacement part <br/>
-                  💡 Limited budget per session; first come, first served.
+                  We are a free community repair, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
+                  Sometime, however, we would need you to help out, too::<br/>
+                  💵 Screen and battery replacements are covered up to $500 HKD <br/>
+                  💵 For any other repair, we will cover up to 10% of the replacement part <br/>
+                  💡 Each session has a limited budget; first come, first served.
                 </p>
               </div>
             </div>
