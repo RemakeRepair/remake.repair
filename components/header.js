@@ -1,6 +1,33 @@
 import React from 'react'
 import Carousel from './carousel'
 
+const MessageModal = () => (
+  <div class="modal fade" id="messageModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Thank you for your interest!</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>
+            The REMAKE team would like to thank you for your huge support!
+            We have received an overwhelming number of replies in just 24 hours from the time we opened our registration form:
+            our entire quota for <strong>all Repair Parties in November</strong> has been filled.
+            We have now closed our registration form and are working around the clock to see how to accommodate the increased demand!
+            Stay tuned for more details, and rest assured, if we can’t have you this time, <strong>there will be more Repair Parties in the near future</strong>.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+)
+
 const Header = () => (
   <header className="masthead">
     <div className="container d-flex h-100 align-items-center">
@@ -11,7 +38,7 @@ const Header = () => (
           Work Again.
         </h1>
         <div className="ruler"></div>
-        <a target="_blank" href="https://ust.az1.qualtrics.com/jfe/form/SV_0xgHhHF9G4EHH5H" className="btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
+        <a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
       </div>
       <style jsx>{`
         .bold-outline-btn {
@@ -21,6 +48,7 @@ const Header = () => (
         }
         `}</style>
     </div>
+    <MessageModal/>
   </header>
 )
 
