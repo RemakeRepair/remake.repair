@@ -178,7 +178,7 @@ const Home = () => (
                 <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
                   We are a free community repair, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
                   Sometime, however, we would need you to help out, too:<br/>
-                  💵 Screen and battery replacements are covered up to $500 HKD <br/>
+                  💵 For screen and battery replacements, we will cover up to 50% of the replacement part. <br/>
                   💵 For any other repair, we will cover up to 10% of the replacement part <br/>
                   💡 Each session has a limited budget; first come, first served.
                 </p>
