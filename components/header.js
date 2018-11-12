@@ -2,16 +2,16 @@ import React from 'react'
 import Carousel from './carousel'
 
 const MessageModal = () => (
-  <div class="modal fade" id="messageModal" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title">Thank you for your interest!</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+  <div className="modal fade" id="messageModal" tabIndex="-1" role="dialog">
+    <div className="modal-dialog" role="document">
+      <div className="modal-content">
+        <div className="modal-header">
+          <h5 className="modal-title">Thank you for your interest!</h5>
+          <button type="button" className="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
-        <div class="modal-body">
+        <div className="modal-body">
           <p>
             The REMAKE team would like to thank you for your huge support!
             We have received an overwhelming number of replies in just 24 hours from the time we opened our registration form:
@@ -20,8 +20,8 @@ const MessageModal = () => (
             Stay tuned for more details, and rest assured, if we can’t have you this time, <strong>there will be more Repair Parties in the near future</strong>.
           </p>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <div className="modal-footer">
+          <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
