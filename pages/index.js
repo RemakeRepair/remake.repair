@@ -11,7 +11,7 @@ class Home extends Component {
 
   componentDidMount() {
     ScrollReveal().reveal('.stats', {
-      duration: 1000,
+      duration: 900,
       distance: '40px',
       easing: 'cubic-bezier(0.165, 0.84, 0.44, 1)',
       origin: 'bottom',
