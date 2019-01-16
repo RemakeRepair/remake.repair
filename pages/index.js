@@ -9,16 +9,6 @@ class Home extends Component {
     super(props)
   }
 
-  componentDidMount() {
-    ScrollReveal().reveal('.stats', {
-      duration: 900,
-      distance: '40px',
-      easing: 'cubic-bezier(0.165, 0.84, 0.44, 1)',
-      origin: 'bottom',
-      interval: 150
-    })
-  }
-
   static async getInitialProps() {
     const res = await fetch('https://restarters.net/api/group/73/stats')
     const stats = await res.json()
