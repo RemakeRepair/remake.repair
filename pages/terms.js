@@ -85,7 +85,7 @@ const TermsAndCondition = () => (
         </div>
         <div className="col-sm-11">
           <p className="lead description">
-            In the event that Remake temporarily keeps your product for servicing, should you have not claimed your product and paid all charges due within sixty (60) days afterbeing notified by Remake that your product has been serviced and ready for collection, Remake will consider your product abandoned by you and you give Remake the right to dispose of your abandoned product by whatever method Remake sees fit in accordance with applicable law. Proceeds derived from any sale or disposal of your abandoned product may be applied by Remake towards payment of any moneys owing by you to Remake.
+            In the event that Remake temporarily keeps your product for servicing, should you have not claimed your product and paid all charges due within sixty (60) days after being notified by Remake that your product has been serviced and ready for collection, Remake will consider your product abandoned by you and you give Remake the right to dispose of your abandoned product by whatever method Remake sees fit in accordance with applicable law. Proceeds derived from any sale or disposal of your abandoned product may be applied by Remake towards payment of any moneys owing by you to Remake.
           </p>
         </div>
         
@@ -103,11 +103,20 @@ const TermsAndCondition = () => (
         </div>
         <div className="col-sm-11">
           <p className="lead description">
+            Remake’s rates for service are determined internally on a case-by-case basis, but are often calculated as an approximation of the cost of the replaced part plus any applicable shipping. When possible, and at Remake’s discretion, <strong>Remake will attempt to reimburse you part of the net cost of the replaced part(s),</strong>if any, not including shipping. The final amount for reimbursement, if any, is determined by Remake and is final. Should you have not claimed your reimbursement due within fourteen (14) days after being notified by Remake that you are eligible for reimbursement, Remake will consider your reimbursement amount donated by you to Remake and you give Remake the right to use it in whatever way it sees fit.
+          </p>
+        </div>
+
+        <div className="col-sm-1">
+          <span className="numeric-bulletin">11.</span>
+        </div>
+        <div className="col-sm-11">
+          <p className="lead description">
             These T&Cs are governed by the laws of Hong Kong (without giving effect to its conflict of law provisions).
           </p>
         </div>
         <div className="col-sm-1">
-          <span className="numeric-bulletin">11.</span>
+          <span className="numeric-bulletin">12.</span>
         </div>
         <div className="col-sm-11">
           <p className="lead description">
@@ -115,7 +124,7 @@ const TermsAndCondition = () => (
           </p>
         </div>
         <div className="col-sm-1">
-          <span className="numeric-bulletin">12.</span>
+          <span className="numeric-bulletin">13.</span>
         </div>
         <div className="col-sm-11">
           <p className="lead description">
