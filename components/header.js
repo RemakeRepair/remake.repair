@@ -38,7 +38,7 @@ const Header = () => (
           Work Again.
         </h1>
         <div className="ruler"></div>
-//         <a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
+          {/*<a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>*/}
            <a href="https://ust.az1.qualtrics.com/jfe/form/SV_e5RUnMPs5KKWgcd" target="_blank" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
       </div>
       <style jsx>{`
