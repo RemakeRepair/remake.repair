@@ -45,8 +45,10 @@ export default class Nav extends Component {
         <div className="container">
           <Link href="/">
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
-              <img src="/static/assets/images/logo-small.svg" width="36"/>
-              Remake
+              <div style={{display: 'flex', alignItems: 'center'}}>
+                <img src="/static/assets/images/logo.png" style={{height: '36px'}}/>
+                <img src="/static/assets/images/brand.png" style={{height: '96px'}}/>
+              </div>
             </a>
           </Link>
           <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

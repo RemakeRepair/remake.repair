@@ -47,8 +47,8 @@ class Home extends Component {
               </div>
             </div>
             <div className="row">
-              <div className="col-md-6 col-sm-12 d-flex flex-column justify-content-center align-items-center">
-                <img  className="ewaste" src="/static/assets/images/ewaste.png"/>
+              <div className="col-md-5 col-sm-12 d-flex flex-column justify-content-center align-items-center">
+                <img className="ewaste" src="/static/assets/images/ewaste.png" style={{width: '70%'}}/>
               </div>
               <div className="col-md-6 col-sm-12 d-flex flex-column justify-content-center">
                 <h4 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>E-waste is one of the fastest growing waste streams across the world.</h4>
@@ -114,8 +114,8 @@ class Home extends Component {
     
             <div className="row justify-content-start no-gutters mb-5 mb-lg-0">
               <div className="col-lg-12">
-                <h3 className="emphasis">Overconsumption of consumer electronics is a widespread problem in Hong Kong</h3>
-                <p className="lead description">
+                <h3 className="emphasis text-center">Overconsumption of consumer electronics is a widespread problem in Hong Kong</h3>
+                <p className="lead description text-justify">
                 &emsp;While society-wide action must be carried out to fix this problem, we can still do our little bit, starting with our own community. 
                   What REMAKE is trying to do is a minor action focused on the <i>mid- to end-stage</i> of consumer
                   electronics’ lifecycle, but which has been shown to have major implications throughout this and
@@ -229,7 +229,7 @@ class Home extends Component {
                   </div>
                   <div className="col-sm-12 col-md-8">
                     <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
-                      We are a free community repair, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
+                      We are a free repair community, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
                       Sometime, however, we would need you to help out, too:<br/>
                       💵 For screen and battery replacements, we will cover up to 50% of the replacement part. <br/>
                       💵 For any other repair, we will cover up to 10% of the replacement part <br/>
