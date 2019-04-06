@@ -5,7 +5,7 @@ import Link from 'next/link'
 const links = [
   { href: '#about', label: 'What we do' },
   { href: '#support', label: 'Support' },
-  { href: '#', label: 'Fix it' },
+  { href: '/recruitment', label: 'Recruitment' },
   { href: '#team', label: 'Team' }
 ].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`

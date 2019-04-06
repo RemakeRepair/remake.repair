@@ -17,7 +17,7 @@ const PrivacyPolicy = () => (
       <div className="row">
         <h3 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>
           <i>Collection and Use of Personal Information</i><br/>
-          <small class="text-muted">Personal information is data that can be used to identify or contact a single person.</small>
+          <small className="text-muted">Personal information is data that can be used to identify or contact a single person.</small>
         </h3>
         <p className="lead description">You may be asked to provide your personal information anytime you are in contact with Remake or its affiliated departments of The Hong Kong University of Science and Technology (“HKUST”). Remake and HKUST may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our services or respond to any queries you may have.</p>
       </div>

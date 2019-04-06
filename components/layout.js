@@ -12,9 +12,9 @@ const Layout = (props) => (
       <div className="container">
         <i className="fas fa-home"></i> Based in Hong Kong; Homegrown in <i className="fas fa-university"></i> HKUST
         <div className="row justify-content-center">
-          <Link href="/privacy">Privacy Policy</Link>
+          <Link href="/privacy"><a>Privacy Policy</a></Link>
           <span style={{margin: '0 20px'}}>|</span>
-          <Link href="/terms">Terms & Conditions</Link>
+          <Link href="/terms"><a>Terms & Conditions</a></Link>
         </div>
       </div>
     </footer>
