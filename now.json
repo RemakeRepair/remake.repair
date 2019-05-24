@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "alias": ["remake.repair"],
+  "builds": [{
+    "src": "next.config.js",
+    "use": "@now/next"
+  }]
+}
