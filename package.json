@@ -1,8 +1,5 @@
 {
   "name": "remake",
-  "now": {
-    "alias": "remake.repair"
-  },
   "scripts": {
     "dev": "next",
     "build": "next build",
