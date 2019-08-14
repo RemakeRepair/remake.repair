@@ -230,10 +230,10 @@ class Home extends Component {
                   <div className="col-sm-12 col-md-8">
                     <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
                       We are a free repair community, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
-                      Sometime, however, we would need you to help out, too:<br/>
-                      💵 For screen and battery replacements, we will cover up to 50% of the replacement part. <br/>
-                      💵 For any other repair, we will cover up to 10% of the replacement part <br/>
-                      💡 Each session has a limited budget; first come, first served.
+                      Why not help us help you?:<br/>
+                      💵 If you bring a friend to a Repair Party and they place an order with us, you get 30% off the replacement part. <br/>
+                      👫 Your friend? They get 10% off - sweet deal. <br/>
+                      💡 And if your friend brings another friend, the 10% becomes 30% and the new friend gets 10%. Spread the love.
                     </p>
                   </div>
                 </div>
