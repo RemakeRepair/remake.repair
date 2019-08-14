@@ -219,7 +219,7 @@ class Home extends Component {
             <div className="row">
               <div className="col-md-10 col-lg-8 mx-auto text-center">
                 <i className="fas fa-hands-helping fa-3x mb-2 text-white"></i>
-                <h2 className="text-white mb-5 levitated-text">Have a dead iPhone lying inside your bedside table?</h2>
+                <h2 className="text-white mb-5 levitated-text">Have a dead iPhone lying in your bedside table?</h2>
                 <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2>
                 <div className="row mt-3">
                   <div className="col-sm-12 col-md-4 d-flex justify-content-center align-items-center">
