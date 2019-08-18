@@ -29,8 +29,8 @@ const team = [
 ]
 
 const contacts = [
-  { icon: 'fas fa-comments', link: 'spectrum.chat/remake' },
-  { icon: 'fab fa-facebook-messenger', link: 'm.me/remakerepair' },
+  { icon: 'fab fa-instagram', link: 'instagr.am/remake.hkust/' },
+  { icon: 'fab fa-facebook', link: 'facebook.com/remakerepair' },
   { icon: 'fas fa-wrench', link: 'therestartproject.org/groups/remake-repair-parties'}
 ]
 
