@@ -33,7 +33,7 @@ const Header = () => (
     <div className="container d-flex h-100 align-items-center">
       <div className="header-center">
         <h1 className="emphasis">
-          #Ubreak <br/>
+          #Unbreak <br/>
           Your <Carousel titles={['iPhone', 'Laptop', 'Kindle', 'Macbook', 'iPad']}/>. <br/>
         </h1>
         <div className="ruler"></div>
