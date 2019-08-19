@@ -39,7 +39,7 @@ const Header = () => (
         </h1>
         <div className="ruler"></div>
           {/*<a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>*/}
-           <a href="https://ust.az1.qualtrics.com/jfe/form/SV_8wZUIGZILTyY9Hn" target="_blank" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
+           <a href="https://ust.az1.qualtrics.com/jfe/form/SV_3Q53CcFwIwlVssl" target="_blank" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>
       </div>
       <style jsx>{`
         .bold-outline-btn {
