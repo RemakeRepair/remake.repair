@@ -33,9 +33,8 @@ const Header = () => (
     <div className="container d-flex h-100 align-items-center">
       <div className="header-center">
         <h1 className="emphasis">
-          Make <br/>
-          Your <Carousel titles={['iPhone', 'Laptop', 'Kindle', 'Macbook', 'iPad']}/> <br/>
-          Work Again.
+          #Ubreak <br/>
+          Your <Carousel titles={['iPhone', 'Laptop', 'Kindle', 'Macbook', 'iPad']}/>. <br/>
         </h1>
         <div className="ruler"></div>
           {/*<a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>*/}
