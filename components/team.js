@@ -5,7 +5,6 @@ const team = [
     name: 'Fernando García Albero',
     bio: [
       'Now a final year social scientist, I have been fixing stuff since I was a teenager.',
-      'I thrive at Repair Parties and love it when people come in excited to learn how to repair! That is, of course, unless iPad minis come in - that stuff is what nightmares are made of!',
       'Strongly passionate about society, environment and technology and finding ways to produce impactful change in the world other than by going vegan.'
     ],
     avatar: '/static/assets/images/fernando.jpg' },
@@ -24,7 +23,7 @@ const team = [
       'I am enthusiastic about anything that makes the Earth a better place for everyone.',
       'Go ahead and send me anything fixable other than phones, anything meaning anything. I’ll gladly fix it for you, if I can…'
     ],
-    avatar: '/static/assets/images/Johnson.jpeg'},
+    avatar: '/static/assets/images/Johnson.jpg'},
    { 
     name: 'Jamie Wei',
     bio: [
