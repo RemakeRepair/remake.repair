@@ -51,7 +51,7 @@ class Home extends Component {
                 <img className="ewaste" src="/static/assets/images/ewaste.png" style={{width: '70%'}}/>
               </div>
               <div className="col-md-6 col-sm-12 d-flex flex-column justify-content-center">
-                <h4 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>E-waste is one of the fastest growing waste streams across the world.</h4>
+                <h4 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>E-waste is one of the fastest growing waste streams across the world.</h4><br/>
                 <p className="lead description text-left">
                   We know the pace of our consumption has real social and environmental costs. 
                   And we know people are frustrated with the throwaway culture around them.
@@ -72,14 +72,15 @@ class Home extends Component {
                     </div>
                     <div className="d-flex">
                       <i className="fas fa-check fa-2x" style={{color: '#71D6A8', marginRight: '12pt'}}></i>
-                      <span style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.2em'}}>Helps in the fight for more sustainable products in the market</span>
+                      <span style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.2em'}}>Helps in the fight for more sustainable products in the market</span><br/><br/>
+                    
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div className="parallax d-flex flex-column justify-content-center">
+          <div className="parallax d-flex flex-column justify-content-center" style={{marginTop: '100px'}}>
             <div className="row">
               <div className="col-sm-4 text-white stats">
                 <h2 className="description">Participants</h2>
@@ -115,11 +116,11 @@ class Home extends Component {
             <div className="row justify-content-start no-gutters mb-5 mb-lg-0">
               <div className="col-lg-12">
                 <h3 className="emphasis text-center">Overconsumption of consumer electronics is a widespread problem in Hong Kong</h3>
-                <p className="lead description text-justify">
+                <p className="lead description text-justify" style={{marginBottom: '30px'}}>
                 &emsp;While society-wide action must be carried out to fix this problem, we can still do our little bit, starting with our own community. 
                   What REMAKE is trying to do is a minor action focused on the <i>mid- to end-stage</i> of consumer
                   electronics’ lifecycle, but which has been shown to have major implications throughout this and
-                  other industries: <strong>repairing</strong>. 
+                  other industries: <strong>repairing</strong>.
                 </p>
               </div>
               
@@ -157,7 +158,7 @@ class Home extends Component {
             </div>
     
             <blockquote className="blockquote text-center mt-3">
-              <p className="mb-0" style={{fontFamily:`'Cereal', sans-serif`, fontWeight: 700, fontSize: '1.6em'}}>Repair saves you money. It saves the environment. And it connects us to our things.</p>
+              <p className="mb-0" style={{fontFamily:`'Cereal', sans-serif`, fontWeight: 700, fontSize: '1.6em', marginTop: '80px'}}>Repair saves you money. It saves the environment. And it connects us to our things.</p>
               <footer className="blockquote-footer blockquote-source">Repair is Noble from <cite title="Source Title">ifixit.org</cite></footer>
             </blockquote>
     
@@ -217,10 +218,10 @@ class Home extends Component {
         <section id="signup" className="signup-section">
           <div className="container">
             <div className="row">
-              <div className="col-md-10 col-lg-8 mx-auto text-center">
+              <div className="col-md-10 col-lg-9 mx-auto text-center">
                 <i className="fas fa-hands-helping fa-3x mb-2 text-white"></i>
-                <h2 className="text-white mb-5 levitated-text">Have a dead iPhone lying in your bedside table?</h2>
-                <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2>
+                <h2 className="text-white mb-2 levitated-text">Have a dead iPhone lying in your bedside table?</h2>
+                <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2><br/>
                 <div className="row mt-3">
                   <div className="col-sm-12 col-md-4 d-flex justify-content-center align-items-center">
                     <div className="d-flex justify-content-center align-items-center" style={{background: 'white', width: '128px', height: '128px', borderRadius: '64px'}}>
@@ -228,11 +229,11 @@ class Home extends Component {
                     </div>
                   </div>
                   <div className="col-sm-12 col-md-8">
-                    <p className="text-white description levitated-text" style={{textAlign: 'left'}}>
+                    <p className="text-white description levitated-text" style={{textAlign: 'left', backgroundColor: 'rgba(166, 162, 162, 0.65)', padding: '24px', borderRadius: '10px'}}>
                       We are a free repair community, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
-                      Why not help us help you?:<br/>
-                      💵 If you bring a friend to a Repair Party and they place an order with us, you get 30% off the replacement part. <br/>
-                      👫 Your friend? They get 10% off - sweet deal. <br/>
+                      Why not help us help you?:<br/><br/>
+                      💵 If you bring a friend to a Repair Party and they place an order with us, you get 30% off the replacement part. <br/><br/>
+                      👫 Your friend? They get 10% off - sweet deal. <br/><br/>
                       💡 And if your friend brings another friend, the 10% becomes 30% and the new friend gets 10%. Spread the love.
                     </p>
                   </div>
