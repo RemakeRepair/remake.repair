@@ -4,27 +4,35 @@ const team = [
   { 
     name: 'Fernando García Albero',
     bio: [
-      'Been fixing things since a teenager, yet I still can’t manage to fix my own relationships (_call me ;)_).',
-      'With a strong alternative-oriented music taste and a full-time pun maker job, I refuse to drown in the mainstream.',
-      'All in all, a gwei lou majoring in GCS a.k.a. Goodest Cantonese Swearing'
+      'Now a final year social scientist, I have been fixing stuff since I was a teenager.',
+      'I thrive at Repair Parties and love it when people come in excited to learn how to repair! That is, of course, unless iPad minis come in - that stuff is what nightmares are made of!',
+      'Strongly passionate about society, environment and technology and finding ways to produce impactful change in the world other than by going vegan.'
     ],
     avatar: '/static/assets/images/fernando.jpg' },
   { 
-    name: 'Mashiat Lamisa',
+    name: 'Alvin Cheung',
     bio: [
-      'Year 2 ISD student with a Michael Scott like sense of humour (or the lack thereof….).',
-      'Super enthusiastic about connecting technology with the human side of things to create sustainable, welfare-driven systems.',
-      'Love all things indie, all things tech and have a strong belief that existence is a social construct. Here to learn and share the fantastic art of repairing.'
+      'A Year 2 Dual-Degree Program student gifted with the power to wake up right before the bus reaches its stop.',
+      'I strongly embrace reducing consumption to save the environment (and my wallet).',
+      'I like to swim, work out, and snack.'
     ],
     avatar: '/static/assets/images/mashiat.jpg' },
   { 
-    name: 'Or Ka Lai',
+    name: 'Johnson Chong',
     bio: [
-      'A local year-2 EVMT student who loves Twenty One Pilots.',
-      'Passionate about sustainability and figuring out ways to save the Earth other than banning straws.',
-      'A novice in repairing, trying not to hurt myself (or you…)'
+      ' Year 2 Computer Engineering local student and baseball addict.',
+      'I am enthusiastic about anything that makes the Earth a better place for everyone.',
+      'Go ahead and send me anything fixable other than phones, anything meaning anything. I’ll gladly fix it for you, if I can…'
     ],
     avatar: '/static/assets/images/okl.jpeg'
+  }
+   { 
+    name: 'Jamie Wei',
+    bio: [
+      'I am a Year 3 Computer Science student from Taiwan!',
+      'I am currently on exchange, but I’ll be back in no time to teach these guys how it’s done!'
+    ],
+    avatar: ''
   }
 ]
 
