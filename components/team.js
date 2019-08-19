@@ -16,16 +16,15 @@ const team = [
       'I strongly embrace reducing consumption to save the environment (and my wallet).',
       'I like to swim, work out, and snack.'
     ],
-    avatar: '/static/assets/images/mashiat.jpg' },
+    avatar: '/static/assets/images/Alvin.jpg' },
   { 
     name: 'Johnson Chong',
     bio: [
-      ' Year 2 Computer Engineering local student and baseball addict.',
+      'Year 2 Computer Engineering local student and baseball addict.',
       'I am enthusiastic about anything that makes the Earth a better place for everyone.',
       'Go ahead and send me anything fixable other than phones, anything meaning anything. I’ll gladly fix it for you, if I can…'
     ],
-    avatar: '/static/assets/images/okl.jpeg'
-  }
+    avatar: '/static/assets/images/Johnson.jpeg'},
    { 
     name: 'Jamie Wei',
     bio: [
