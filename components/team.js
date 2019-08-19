@@ -27,10 +27,10 @@ const team = [
    { 
     name: 'Jamie Wei',
     bio: [
-      'I am a Year 3 Computer Science student from Taiwan!',
+      'I am a Year 3 Computer Science student from Taiwan.',
       'I am currently on exchange, but I’ll be back in no time to teach these guys how it’s done!'
     ],
-    avatar: ''
+    avatar: '/static/assets/images/Jamie.jpg'
   }
 ]
 
