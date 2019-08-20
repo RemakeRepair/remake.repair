@@ -10,6 +10,9 @@ class Home extends Component {
   }
   
   componentDidMount() {
+    const player = new Plyr('#player', {
+      controls: []
+    });
     ScrollReveal().reveal('.stats', {
       duration: 900,
       distance: '40px',
@@ -101,7 +104,9 @@ class Home extends Component {
           <div className="container">
             <div className="row align-items-center no-gutters mb-4 mb-lg-5">
               <div className="col-xl-8 col-lg-7 levitated">
-                <img className="img-fluid mb-3 mb-lg-0" src="/static/assets/images/hong_kong.jpg" alt=""/>
+              <video poster="/static/assets/images/cover.jpg" id="player" playsinline controls autoPlay muted loop>
+                <source src="/static/assets/video/propaganda.mp4" type="video/mp4" />
+              </video>
               </div>
               <div className="col-xl-4 col-lg-5">
                 <div className="featured-text text-center text-lg-left">
