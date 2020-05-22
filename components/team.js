@@ -46,7 +46,7 @@ const Members = () => (
   <div className="row">
     {
       team.map((member, i) => (
-        <div key={i} className="col-md-3 mb-3 mb-md-0">
+        <div key={i} className="col-md-4 mb-3 mb-md-0">
           <div className="card py-4 h-100">
             <div className="card-body text-center">
               <img src={member.avatar} height="180" alt={member.name} className="rounded-circle"/>
