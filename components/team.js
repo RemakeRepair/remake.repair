@@ -24,14 +24,14 @@ const team = [
       'Go ahead and send me anything fixable other than phones, anything meaning anything. I’ll gladly fix it for you, if I can…'
     ],
     avatar: '/static/assets/images/Johnson.jpg'},
-   { 
+//   { 
     name: 'Jamie Wei',
     bio: [
       'I am a Year 3 Computer Science student from Taiwan.',
       'I am currently on exchange, but I’ll be back in no time to teach these guys how it’s done!'
     ],
     avatar: '/static/assets/images/Jamie.jpg'
-  }
+  }//
 ]
 
 const contacts = [
