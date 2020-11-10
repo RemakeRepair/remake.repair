@@ -4,22 +4,25 @@ const team = [
   { 
     name: 'Fernando García Albero',
     bio: [
-      'Now a final year social scientist, I have been fixing stuff since I was a teenager.',
+      '<strong> Founder </strong>',
+      'Now a public policy master's student, I have been fixing stuff since I was a teenager.',
       'Strongly passionate about society, environment and technology and finding ways to produce impactful change in the world other than by going vegan.'
     ],
     avatar: '/static/assets/images/fernando.jpg' },
   { 
-    name: 'Alvin Cheung',
+    name: 'Nupur Dhawan',
     bio: [
-      'A Year 2 Dual-Degree Program student gifted with the power to wake up right before the bus reaches its stop.',
-      'I strongly embrace reducing consumption to save the environment (and my wallet).',
-      'I like to swim, work out, and snack.'
+      '<strong> UCL Branch Coordinator </strong>',
+      'With ample work experience in consultancy, I have now deciced to learn more about NGO work in sustainability.',
+      'I am thrilled to see how much this community has achieved to date, and I am excited to be part of this journey',
+      'Find me around UCL anytime!'
     ],
     avatar: '/static/assets/images/Alvin.jpg' },
   { 
     name: 'Johnson Chong',
     bio: [
-      'Year 2 Computer Engineering local student and baseball addict.',
+      '<strong> HKUST Branch Coordinator </strong>',
+      'Year 3 Computer Engineering local student and baseball addict.',
       'I am enthusiastic about anything that makes the Earth a better place for everyone.',
       'Go ahead and send me anything fixable other than phones, anything meaning anything. I’ll gladly fix it for you, if I can…'
     ],
