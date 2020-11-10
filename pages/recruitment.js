@@ -7,7 +7,7 @@ const Recruitment = () => (
     <div className="jumbotron jumbotron-fluid" style={{paddingTop: '200px'}}>
       <div className="container">
         <h1 className="display-4" style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>Recruitment</h1>
-        <p className="lead">Want to join REMAKE as a technician? Want to learn all there is to know about repair? Want to be able to manage the first free repair community in Asia? You’re in the right place.</p>
+        <p className="lead">Want to join REMAKE as a technician? Want to learn all there is to know about repair? Want to be able to manage the first free repair community in Asia? Or the first one in UCL? You’re in the right place.</p>
         <hr className="my-4"/>
         <p className="lead description">Before we get started, make sure you know exactly what we do, and why we do it. If you’re still unsure, you might want to head to the “About Us” page and come back here a little later.</p>
       </div>
@@ -79,10 +79,13 @@ const Recruitment = () => (
           </tbody>
         </table>
         <div className="offset-md-1 col-md-11">
-          <p className="lead description">&#9654; As such, you’ll be in a position to contribute as a technician during our Repair Parties. There are, usually, six parties in a semester; they take place once every two weeks on Sundays, and each of them takes about 6 to 8 hours. You can attend these parties depending on your own availability, but remember, the more you do, the more likely you get upped to the status of Coordinator. If you refuse to attend any, you will be removed from the project. </p>
+          <p className="lead description">&#9654; As such, you’ll be in a position to contribute as a technician during our Repair Parties. There are, usually, six parties in a semester; they take place once every two weeks (usually on Sundays), and each of them takes about 5 to 6 hours. You can attend these parties depending on your own availability, but remember, the more you do, the more likely you get upped to the status of Coordinator. If you refuse to attend any, you will be removed from the project. </p>
         </div>
         <div className="offset-md-1 col-md-11">
           <p className="lead description">&#9654; You <b>do not</b> need any prior experience in repair in order to apply. We will teach you everything you need to know. </p>
+        </div>
+        <div className="offset-md-1 col-md-11">
+          <p className="lead description">&#9654; You can use this application form to apply for an opening at either the UCL or HKUST Branch. Do utilise your university-provided email in the application form, else we will not be able to process your application. </p>
         </div>
       </div>
       <div className="row">
