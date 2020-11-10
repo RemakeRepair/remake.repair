@@ -17,7 +17,7 @@ const team = [
       'I am thrilled to see how much this community has achieved to date, and I am excited to be part of this journey',
       'Find me around UCL anytime!'
     ],
-    avatar: '/static/assets/images/IMG_4367.jpeg' },
+    avatar: '/static/assets/images/D3C2E839-EC50-41B1-94EA-3C18A10878F4.jpeg' },
   { 
     name: 'Johnson Chong',
     bio: [
