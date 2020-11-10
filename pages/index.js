@@ -111,7 +111,7 @@ class Home extends Component {
               <div className="col-xl-4 col-lg-5">
                 <div className="featured-text text-center text-lg-left">
                   <h4 className="emphasis">Why Repair?</h4>
-                  <p className="text-black-50 mb-0">This idea stemmed from the notion that people in Hong Kong are, generally speaking, quite affable towards new technologies, but maybe too much so. </p>
+                  <p className="text-black-50 mb-0">This idea stemmed from the notion that most people are, generally speaking, quite affable towards new technologies, but maybe too much so. </p>
                   <br/>
                   <p className="text-black-50 mb-0">While most people are interested in the latest and greatest, and wish to implement these technologies in their everyday lives, most of them go on a yearly tech purchasing spree without it being a real necessity.</p>
                 </div>
