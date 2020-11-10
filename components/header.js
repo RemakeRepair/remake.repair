@@ -34,7 +34,7 @@ const Header = () => (
       <div className="header-center">
         <h1 className="emphasis">
           #Unbreak <br/>
-          Your <Carousel titles={['iPhone', 'Laptop', 'Kindle', 'Macbook', 'iPad', 'Smartwatch', 'Tablet', 'Computer']}/>. <br/>
+          Your <Carousel titles={['iPhone', 'Laptop', 'Kindle', 'Macbook', 'iPad', 'Smartwatch', 'Tablet', 'Computer', 'Speaker', 'Headphones']}/>. <br/>
         </h1>
         <div className="ruler"></div>
           {/*<a data-toggle="modal" data-target="#messageModal" className="text-white btn btn-outline-light btn-lg bold-outline-btn">Join a party</a>*/}
