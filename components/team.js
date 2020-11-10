@@ -53,7 +53,7 @@ const Members = () => (
           <div className="card py-4 h-100">
             <div className="card-body text-center">
               <img src={member.avatar} height="180" alt={member.name} className="rounded-circle"/>
-              <div className="small text-black-50 mt-3"{member.name}</div>
+              <div className="small text-black-50 mt-3">{member.name}</div>
               {
                 member.bio.map((paragraph, j) => (
                   <p className={`${j===0?'font-weight-bold':''}`} key={j}>{paragraph}</p>
