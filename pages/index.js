@@ -43,7 +43,7 @@ class Home extends Component {
                     </div>
                   </div>
                   <p className="lead description">
-                    REMAKE is a free community-based repair project that holds <strong>Repair Parties</strong> at the Hong Kong University of Science and Technology with a fun, collaborative spirit.
+                    REMAKE is a free community-based repair project that holds <strong>Repair Parties</strong> at universities around the world with a fun, collaborative spirit.
                     We thrive on skill-sharing and collaborative learning to fix technology and our relationship with it!
                   </p>
                 </div>
@@ -120,7 +120,7 @@ class Home extends Component {
     
             <div className="row justify-content-start no-gutters mb-5 mb-lg-0">
               <div className="col-lg-12">
-                <h3 className="emphasis text-center">Overconsumption of consumer electronics is a widespread problem in Hong Kong</h3>
+                <h3 className="emphasis text-center">Overconsumption of consumer electronics is a widespread problem in most urban nuclei</h3>
                 <p className="lead description text-justify" style={{marginBottom: '30px'}}>
                 &emsp;While society-wide action must be carried out to fix this problem, we can still do our little bit, starting with our own community. 
                   What REMAKE is trying to do is a minor action focused on the <i>mid- to end-stage</i> of consumer
@@ -144,7 +144,7 @@ class Home extends Component {
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
-                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>Hong Kong’s social context built around consumerism</span>
+                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>A social context built around consumerism</span>
                   </div>
                 </div>
               </div>
@@ -152,7 +152,7 @@ class Home extends Component {
                 <div className="bg-black text-center h-100 project">
                   <div className="d-flex h-100">
                     <div className="project-text w-100 my-auto text-center text-lg-left">
-                      <p className="mb-0 text-white-50"> ― are largely to blame for the situation Hong Kong has seen itself in, not only in terms of WEEE, but in overall waste.</p>
+                      <p className="mb-0 text-white-50"> ― are largely to blame for the situation most developed economies have seen themselves in, not only in terms of WEEE, but in overall waste.</p>
                       <br/>
                       <p className="mb-0 text-white-50">Yet, repairing, if done correctly and with the proper supervision, can be easy, fun, cheap and a great opportunity for the public to learn more about their own devices. As popularly promoted by iFixit, a wiki-based site that teaches people how to fix almost anything</p>
                       <hr className="d-none d-lg-block mb-0 ml-0"/>
@@ -236,7 +236,7 @@ class Home extends Component {
                   <div className="col-sm-12 col-md-8">
                     <p className="text-white description levitated-text" style={{textAlign: 'left', backgroundColor: 'rgba(166, 162, 162, 0.65)', padding: '24px', borderRadius: '10px'}}>
                       We are a free repair community, and that’s how we’re going to stay: Free. We will never charge you for our service, and we will try our best to cover the replaced part itself.
-                      Why not help us help you?:<br/><br/>
+                      Why not help us help you? (Referral scheme only available at the HKUST Branch):<br/><br/>
                       💵 If you bring a friend to a Repair Party and they place an order with us, you get 30% off the replacement part. <br/><br/>
                       👫 Your friend? They get 10% off - sweet deal. <br/><br/>
                       💡 And if your friend brings another friend, the 10% becomes 30% and the new friend gets 10%. Spread the love.
