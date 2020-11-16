@@ -30,7 +30,7 @@ const team = [
 ]
 
 const contacts = [
-  { icon: 'fab fa-instagram', link: 'instagr.am/remake.hkust/' },
+  { icon: 'fab fa-instagram', link: 'instagr.am/remake.repair/' },
   { icon: 'fab fa-facebook', link: 'facebook.com/remakerepair' },
   { icon: 'fas fa-wrench', link: 'therestartproject.org/groups/remake-repair-parties'}
 ]
