@@ -16,7 +16,7 @@ const Recruitment = () => (
     <div className="container">
       <div className="row">
         <h4 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>As a technician, there are a number of things you should know: </h4>
-        <p className="lead description">We have two technician categories: Coordinator and Assistant Technician (AT). You join as an AT and, as soon as you acquire all the skills and knolwede you need, you’ll be upped to the status of Coordinator in no time. The greater the dedication, the more perks you get (like a fancy Pro Tech Toolkit all for yourself!)</p>
+        <p className="lead description">We have two technician categories: Coordinator and Assistant Technician (AT). You join as an AT and, as soon as you acquire all the skills and knowledge you need, you’ll be upped to the status of Coordinator in no time. The greater the dedication, the more perks you get (like a fancy Pro Tech Toolkit all for yourself!)</p>
         <p className="lead description">As an AT, you are subject to the following responsibilities, duties, and benefits:</p>
       </div>
       <div className="row">
