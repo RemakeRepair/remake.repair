@@ -209,7 +209,7 @@ class Home extends Component {
                         <div className="d-flex justify-content-center mx-auto action-circular-bg action-bg-accent-magenta">
                           <img src="/static/assets/images/learn.svg" width="44"/>
                         </div>
-                        <h5 className="emphasis levitated-text mt-3 text-white">Learning</h5>
+                        <h5 className="emphasis levitated-text mt-3 text-white">Lobbying</h5>
                       </div>
                       </div>
                     </div>
@@ -225,7 +225,7 @@ class Home extends Component {
             <div className="row">
               <div className="col-md-10 col-lg-9 mx-auto text-center">
                 <i className="fas fa-hands-helping fa-3x mb-2 text-white"></i>
-                <h2 className="text-white mb-2 levitated-text">Have a dead iPhone lying in your bedside table?</h2>
+                <h2 className="text-white mb-2 levitated-text">Have a dead phone lying in your bedside table?</h2>
                 <h2 className="text-white description levitated-text">Bring it over and we will help you fix it!</h2><br/>
                 <div className="row mt-3">
                   <div className="col-sm-12 col-md-4 d-flex justify-content-center align-items-center">
