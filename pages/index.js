@@ -111,21 +111,21 @@ class Home extends Component {
               <div className="col-xl-4 col-lg-5">
                 <div className="featured-text text-center text-lg-left">
                   <h4 className="emphasis">Why Repair?</h4>
-                  <p className="text-black-50 mb-0">This idea stemmed from the notion that most people are, generally speaking, quite affable towards new technologies, but maybe too much so. </p>
+                  <p className="text-black-50 mb-0">Technology has become essential in our everyday lives. We rely on it to enable us to produce our most creative, innovative and impactful work. </p>
                   <br/>
-                  <p className="text-black-50 mb-0">While most people are interested in the latest and greatest, and wish to implement these technologies in their everyday lives, most of them go on a yearly tech purchasing spree without it being a real necessity.</p>
+                  <p className="text-black-50 mb-0">However, our work should not and need not be carried out at the expense of the environment. We have the opportunity to make sure we use technology responsibly, and that includes repairing it. </p>
                 </div>
               </div>
             </div>
     
             <div className="row justify-content-start no-gutters mb-5 mb-lg-0">
               <div className="col-lg-12">
-                <h3 className="emphasis text-center">Overconsumption of consumer electronics is a widespread problem in most urban nuclei</h3>
+                <h3 className="emphasis text-center">Technology and sustainability, the perfect match. </h3>
                 <p className="lead description text-justify" style={{marginBottom: '30px'}}>
-                &emsp;While society-wide action must be carried out to fix this problem, we can still do our little bit, starting with our own community. 
-                  What REMAKE is trying to do is a minor action focused on the <i>mid- to end-stage</i> of consumer
-                  electronics’ lifecycle, but which has been shown to have major implications throughout this and
-                  other industries: <strong>repairing</strong>.
+                &emsp;Earth needs us to make the best use of the resources we have available. Together, we each can do our little bit, starting with our own community. 
+                  REMAKE focuses on the <i>mid- to end-stage</i> of consumer
+                  electronics’ lifecycle, a small action with strong effects throughout this and
+                  partner industries: <strong>repairing</strong>.
                 </p>
               </div>
               
