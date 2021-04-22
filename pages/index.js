@@ -57,8 +57,8 @@ class Home extends Component {
                 <h4 style={{fontFamily: `'Cereal', sans-serif`, fontWeight: 700}}>E-waste is one of the fastest growing waste streams across the world.</h4><br/>
                 <p className="lead description text-left">
                   We know the pace of our consumption has real social and environmental costs. 
-                  And we know people are frustrated with the throwaway culture around them.
-                  But we can do something about it.
+                  And we know people are motivated to do something about it.
+                  In this mission, repair is a tool.
                 </p>
                 <div className="row m-25" style={{height: '16vh'}}>
                   <div className="col-sm-3 d-flex flex-column justify-content-center">
@@ -136,15 +136,15 @@ class Home extends Component {
                   <h4 className="text-white emphasis levitated-text">We believe that</h4>
                   <div className="d-flex align-items-center">
                     <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
-                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>A lack of understanding surrounding Waste Electrical and Electronic Equipment (WEEE)and its effects</span>
+                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>Communities represent the centre-stage where the biggest change can occur,</span>
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
-                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>The overtly unfriendly third-party repair policies of most of Silicon Valley’s companies, and</span>
+                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>repair is a means to an end, a vehicle for community building, and </span>
                   </div>
                   <div className="d-flex align-items-center">
                     <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
-                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>A social context built around consumerism</span>
+                    <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>an opportunity for our youth to gain agency over the future they want for themselves.</span>
                   </div>
                 </div>
               </div>
@@ -152,9 +152,9 @@ class Home extends Component {
                 <div className="bg-black text-center h-100 project">
                   <div className="d-flex h-100">
                     <div className="project-text w-100 my-auto text-center text-lg-left">
-                      <p className="mb-0 text-white-50"> ― are largely to blame for the situation most developed economies have seen themselves in, not only in terms of WEEE, but in overall waste.</p>
+                      <p className="mb-0 text-white-50"> The momentum necessary to create a greener, more sustainable society needs to be driven by people in their communities. REMAKE, like many others, just provides the venue for them. </p>
                       <br/>
-                      <p className="mb-0 text-white-50">Yet, repairing, if done correctly and with the proper supervision, can be easy, fun, cheap and a great opportunity for the public to learn more about their own devices. As popularly promoted by iFixit, a wiki-based site that teaches people how to fix almost anything</p>
+                      <p className="mb-0 text-white-50">With the help of our technicians, people can learn how to repair and, in doing so, discover how it can be easy, fun, cheap and a great opportunity to learn more about our technology. As popularly promoted by iFixit, a wiki-based site that teaches people how to fix almost anything</p>
                       <hr className="d-none d-lg-block mb-0 ml-0"/>
                     </div>
                   </div>
