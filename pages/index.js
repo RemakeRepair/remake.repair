@@ -135,7 +135,7 @@ class Home extends Component {
                 <div className="d-flex flex-column justify-content-center align-items-center" style={{background: 'url(/static/assets/images/demo-image-02.jpg)', backgroundSize: 'cover', flexDirection:'column', height: '100%', padding: '24px'}}>
                   <h4 className="text-white emphasis levitated-text">We believe that</h4>
                   <div className="d-flex align-items-center">
-                    <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
+                    <i></i>
                     <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>Communities represent the centre-stage where the biggest change can occur,</span>
                   </div>
                   <div className="d-flex align-items-center">
