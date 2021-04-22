@@ -139,11 +139,11 @@ class Home extends Component {
                     <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>Communities represent the centre-stage where the biggest change can occur,</span>
                   </div>
                   <div className="d-flex align-items-center">
-                    <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
+                    <i></i>
                     <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>repair is a means to an end, a vehicle for community building, and </span>
                   </div>
                   <div className="d-flex align-items-center">
-                    <i className="fas fa-exclamation-triangle fa-2x text-amber mr-3"></i>
+                    <i></i>
                     <span className="levitated-text text-white" style={{fontFamily:`'Cereal', sans-serif`, fontSize: '1.15em'}}>an opportunity for our youth to gain agency over the future they want for themselves.</span>
                   </div>
                 </div>
